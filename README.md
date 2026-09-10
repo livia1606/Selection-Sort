@@ -1,6 +1,6 @@
 # Selection Sort
 
-Trabalho desenvolvido para a disciplina de **Estratégias de Programação**, do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da UTFPR – Campus Cornélio Procópio.
+Trabalho desenvolvido para a disciplina de **Estratégias de Programação**, **Professor:** Clayton Kossoski do curso de **Análise e Desenvolvimento de Sistemas (ADS)** da UTFPR – Campus Cornélio Procópio.
 
 ## Sobre o trabalho
 
@@ -137,7 +137,3 @@ Durante a apresentação são abordados:
   
 ## Link dos slides no canva:
 https://canva.link/9eu5ogdy2d6x6tg
-
-**Disciplina:** Estratégias de Programação
-**Professor:** Clayton Kossoski
-**Curso:** Análise e Desenvolvimento de Sistemas – UTFPR
